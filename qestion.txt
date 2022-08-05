@@ -1,0 +1,10 @@
+﻿1,what is your name?
+2,what is your favourit color?
+3,what time is it?
+4,what do you do in your free time?
+5,what is java?
+6,what is your address?
+7,how old are you?
+8,how mush is your weight?
+9,what time do you get up?
+10,when you was born?
